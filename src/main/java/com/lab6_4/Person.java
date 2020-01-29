@@ -1,4 +1,4 @@
-package com.lab6_4.data;
+package com.lab6_4;
 
 public class Person {
 
